@@ -2,9 +2,9 @@
 
 module.exports = {
     // spotify/game/twitch
-    "mode": "", 
+    "mode": "twitch", 
     // dnd/online/idle
-    "status": "",
+    "status": "dnd",
 
     "game": {
         "applicationID": "",
@@ -24,14 +24,14 @@ module.exports = {
         "endTimestamp": "" // time left since this timestamp (decrease --)
     },
     "twitch": {
-        "applicationID": "",
-        "url": "", // twitch channel link
+        "applicationID": "1197854616566636605",
+        "url": "https://www.twitch.tv/sparkyx69", // twitch channel link
 
-        "details": "", // title
-        "state": "", // first row below title (playing ...)
+        "details": "MoonLight", // title
+        "state": "Reviving", // first row below title (playing ...)
 
-        "largeImageKey": "", // in dev portal, upload img then name it with the name you want to appear with image is surrounded
-        "largeImageText": "", // use this to replace text when img surrounded it will also be second row below title, if you dont want the row dont use it and setup text via dev portal (img name)
+        "largeImageKey": "https://cdn.discordapp.com/icons/1187033801914851338/a_f294e752903ea046e2f389712c50f1b2.gif?size=2048", // in dev portal, upload img then name it with the name you want to appear with image is surrounded
+        "largeImageText": "Legit", // use this to replace text when img surrounded it will also be second row below title, if you dont want the row dont use it and setup text via dev portal (img name)
         
         "smallImageKey": "",
         "smallImageText": "",
