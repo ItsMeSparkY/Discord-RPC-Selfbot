@@ -25,7 +25,7 @@ module.exports = {
     },
     "twitch": {
         "applicationID": "1197854616566636605",
-        "url": "https://discord.gg/mlontop", // twitch channel link
+        "url": "https://www.twitch.tv/sparkyx69", // twitch channel link
 
         "details": "Join For OwO", // title
         "state": "", // first row below title (playing ...)
