@@ -27,7 +27,7 @@ module.exports = {
         "applicationID": "1197854616566636605",
         "url": "https://www.twitch.tv/sparkyx69", // twitch channel link
 
-        "details": "Join For OwO", // title
+        "details": ".gg/mlontop", // title
         "state": "", // first row below title (playing ...)
 
         "largeImageKey": "", // in dev portal, upload img then name it with the name you want to appear with image is surrounded
