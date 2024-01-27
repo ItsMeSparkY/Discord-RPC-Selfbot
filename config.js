@@ -25,10 +25,10 @@ module.exports = {
     },
     "twitch": {
         "applicationID": "1197854616566636605",
-        "url": "https://www.twitch.tv/sparkyx69", // twitch channel link
+        "url": "https://discord.gg/mlontop", // twitch channel link
 
-        "details": "MoonLight", // title
-        "state": "Reviving", // first row below title (playing ...)
+        "details": "Join For OwO", // title
+        "state": "", // first row below title (playing ...)
 
         "largeImageKey": "", // in dev portal, upload img then name it with the name you want to appear with image is surrounded
         "largeImageText": "", // use this to replace text when img surrounded it will also be second row below title, if you dont want the row dont use it and setup text via dev portal (img name)
